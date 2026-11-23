@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liberty6Circuit</string>
+
+    <string name="brand_title">LIBERTY 6 CIRCUIT</string>
+    <string name="brand_tagline_splash">BEAT THE DAWN CHECKPOINT</string>
+    <string name="splash_loading">LOADING ROUTE DATA</string>
+    <string name="menu_tagline">COASTAL RUN - NO SIRENS - NO EXCUSES</string>
+    <string name="disclaimer">18+ - FICTIONAL REWARDS ONLY - NO REAL MONEY</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_go">GO</string>
+    <string name="cta_left">LEFT</string>
+    <string name="cta_right">RIGHT</string>
+    <string name="cta_drift">DRIFT</string>
+    <string name="cta_nitro">NITRO</string>
+    <string name="cta_bank">BANK</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_restart">RESTART</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_back">BACK</string>
+    <string name="cta_district_select">DISTRICT SELECT</string>
+    <string name="cta_garage">GARAGE</string>
+    <string name="cta_how_to_play">HOW TO PLAY</string>
+    <string name="cta_start_run">START RUN</string>
+    <string name="cta_drift_again">DRIFT AGAIN</string>
+    <string name="cta_install">INSTALL</string>
+    <string name="cta_max_level">MAX LEVEL</string>
+    <string name="cta_need_tokens">NEED %1$s</string>
+
+    <string name="screen_district_select">DISTRICT SELECT</string>
+    <string name="screen_garage">GARAGE</string>
+    <string name="screen_how_to_play">HOW TO PLAY</string>
+
+    <string name="stat_best_score">BEST SCORE</string>
+    <string name="stat_best_chain">BEST CHAIN</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_distance">DISTANCE</string>
+    <string name="stat_tokens_run">TOKENS RUN</string>
+
+    <string name="state_selected">SELECTED</string>
+    <string name="state_not_selected">NOT SELECTED</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_chain">CHAIN MULTIPLIER %1$d</string>
+    <string name="state_part_level">LEVEL %1$d OF %2$d</string>
+
+    <string name="cd_player_car">NEON COUPE</string>
+    <string name="cd_route_token">ROUTE TOKEN</string>
+    <string name="cd_patrol_cone">PATROL CONE</string>
+    <string name="cd_drift_gate">DRIFT GATE</string>
+    <string name="cd_pause">PAUSE</string>
+    <string name="cd_tuning_part">TUNING PART</string>
+
+    <string name="hud_dawn_in">DAWN IN %1$s</string>
+    <string name="game_hint">PRESS LEFT OR RIGHT TO CHANGE LANE - DRIFT TO CUT A GATE</string>
+    <string name="game_ready">READY ON THE LINE</string>
+
+    <string name="pause_title">HOLDING THE SHOULDER</string>
+    <string name="pause_distance">DISTANCE %1$s</string>
+
+    <string name="gameover_record">NEW ROUTE RECORD</string>
+    <string name="gameover_tokens_banked">+%1$d ROUTE TOKENS BANKED</string>
+    <string name="gameover_bank_total">GARAGE BANK %1$d TOKENS</string>
+
+    <string name="verdict_crashed">WRAPPED THE BARRIER</string>
+    <string name="verdict_crashed_sub">A PATROL CONE TOOK THE LINE</string>
+    <string name="verdict_dawn_cleared">BEAT THE DAWN</string>
+    <string name="verdict_dawn_cleared_sub">CHECKPOINT CLEARED</string>
+    <string name="verdict_sun_caught">SUN CAUGHT YOU</string>
+    <string name="verdict_sun_caught_sub">THE DAWN CLOCK RAN OUT</string>
+    <string name="verdict_clock_out">CLOCK OUT</string>
+    <string name="verdict_clock_out_sub">TIME TRIAL COMPLETE</string>
+
+    <string name="district_harbour">HARBOUR MILE</string>
+    <string name="district_causeway">NEON CAUSEWAY</string>
+    <string name="district_heights">DAWN HEIGHTS</string>
+    <string name="district_harbour_brief">Wide wet asphalt, steady gates, forgiving cones.</string>
+    <string name="district_causeway_brief">Tighter gates and denser patrols out over the water.</string>
+    <string name="district_heights_brief">The fastest climb, gates every few car lengths.</string>
+    <string name="district_best">BEST %1$s</string>
+    <string name="district_locked">REACH %1$s TO OPEN</string>
+
+    <string name="weather_clear">CLEAR</string>
+    <string name="weather_fog">SEA FOG</string>
+    <string name="weather_rain">RAIN SQUALL</string>
+
+    <string name="mode_dawn_run">DAWN RUN</string>
+    <string name="mode_time_trial">TIME TRIAL</string>
+
+    <string name="option_ghost_on">GHOST CAR ON</string>
+    <string name="option_ghost_off">GHOST CAR OFF</string>
+    <string name="option_controls_left">CONTROLS LEFT</string>
+    <string name="option_controls_right">CONTROLS RIGHT</string>
+
+    <string name="part_grip">GRIP KIT</string>
+    <string name="part_headlight">HEADLIGHT ARRAY</string>
+    <string name="part_nitro">NITRO CELL</string>
+    <string name="part_grip_effect">Lane changes land faster on every level.</string>
+    <string name="part_headlight_effect">Obstacles show up earlier down the road.</string>
+    <string name="part_nitro_effect">Nitro burns 1.5 seconds longer per level.</string>
+
+    <string name="section_routes">ROUTES</string>
+    <string name="section_routes_sub">PICK THE STRETCH YOU WANT TO RUN</string>
+    <string name="section_weather">WEATHER</string>
+    <string name="section_weather_sub">FOG HIDES CONES, RAIN SLOWS THE SLIDE</string>
+    <string name="section_mode">MODE</string>
+    <string name="section_mode_sub">REACH THE CHECKPOINT OR RACE THE CLOCK</string>
+    <string name="section_options">RUN OPTIONS</string>
+    <string name="section_options_sub">BOTH SETTINGS CARRY INTO THE NEXT RUN</string>
+    <string name="section_tuning">TUNING BAY</string>
+    <string name="section_tuning_sub">ROUTE TOKENS ARE THE ONLY CURRENCY</string>
+
+    <string name="garage_empty">COLLECT ROUTE TOKENS ON A RUN TO TUNE THE CAR</string>
+    <string name="garage_installed">PART INSTALLED</string>
+
+    <string name="howto_lanes">LANES</string>
+    <string name="howto_lanes_body">Press LEFT or RIGHT to slide between the three lanes.</string>
+    <string name="howto_gates">GATES</string>
+    <string name="howto_gates_body">Press DRIFT inside a violet gate to cut it clean and add a chain tick.</string>
+    <string name="howto_tokens">TOKENS AND CONES</string>
+    <string name="howto_tokens_body">Tokens pay for garage parts. One patrol cone ends the run.</string>
+    <string name="howto_bank">BANK OR PUSH</string>
+    <string name="howto_bank_body">At a district border bank the chain for safe points or keep it running for more.</string>
+</resources>
